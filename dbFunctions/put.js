@@ -15,4 +15,4 @@ export async function put(input, table){
     }
 }
 
-put(['Dmitry', 'Marchukos', '08-11-2001', 1, 800], 'worker');
+put(['Name', 'Surname', '12-12-2012', 2, 2000], 'worker');
